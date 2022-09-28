@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\bin\Debug\netcoreapp3.1\CustomIndexer.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\bin\Debug\netcoreapp3.1\CustomIndexer.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\bin\Debug\netcoreapp3.1\CustomIndexer.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\bin\Debug\netcoreapp3.1\CustomIndexer.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\bin\Debug\netcoreapp3.1\CustomIndexer.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\bin\Debug\netcoreapp3.1\CustomIndexer.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomIndexer\obj\Debug\netcoreapp3.1\CustomIndexer.genruntimeconfig.cache

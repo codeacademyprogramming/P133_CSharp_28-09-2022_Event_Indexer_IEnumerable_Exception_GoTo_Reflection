@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\bin\Debug\netcoreapp3.1\CustomEvent.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomEvent\obj\Debug\netcoreapp3.1\CustomEvent.genruntimeconfig.cache

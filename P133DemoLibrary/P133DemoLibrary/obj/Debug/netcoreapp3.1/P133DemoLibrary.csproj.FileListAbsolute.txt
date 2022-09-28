@@ -1,0 +1,9 @@
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\bin\Debug\netcoreapp3.1\P133DemoLibrary.deps.json
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\bin\Debug\netcoreapp3.1\P133DemoLibrary.dll
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\bin\Debug\netcoreapp3.1\P133DemoLibrary.pdb
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\obj\Debug\netcoreapp3.1\P133DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\obj\Debug\netcoreapp3.1\P133DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\obj\Debug\netcoreapp3.1\P133DemoLibrary.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\obj\Debug\netcoreapp3.1\P133DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\obj\Debug\netcoreapp3.1\P133DemoLibrary.dll
+C:\Users\hamid.mammadov\Desktop\P133DemoLibrary\P133DemoLibrary\obj\Debug\netcoreapp3.1\P133DemoLibrary.pdb

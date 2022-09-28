@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\bin\Debug\netcoreapp3.1\GoTiStatement.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\bin\Debug\netcoreapp3.1\GoTiStatement.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\bin\Debug\netcoreapp3.1\GoTiStatement.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\bin\Debug\netcoreapp3.1\GoTiStatement.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\bin\Debug\netcoreapp3.1\GoTiStatement.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\bin\Debug\netcoreapp3.1\GoTiStatement.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.genruntimeconfig.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\GoTiStatement\obj\Debug\netcoreapp3.1\GoTiStatement.csproj.AssemblyReference.cache

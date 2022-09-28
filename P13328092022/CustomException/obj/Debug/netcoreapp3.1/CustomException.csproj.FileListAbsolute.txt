@@ -1,0 +1,14 @@
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\bin\Debug\netcoreapp3.1\CustomException.exe
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\bin\Debug\netcoreapp3.1\CustomException.deps.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\bin\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\bin\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\hamid.mammadov\Desktop\P133\P13328092022\CustomException\obj\Debug\netcoreapp3.1\CustomException.genruntimeconfig.cache
